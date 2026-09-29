@@ -31,4 +31,3 @@ The program calculates and displays the simple interest.
 ## Author
 
 This project was created as part of the Introduction to Git and GitHub final project.
-<!-- merge test -->
